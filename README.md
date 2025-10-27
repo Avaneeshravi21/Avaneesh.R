@@ -49,12 +49,7 @@ The dashboard helps stakeholders track **key performance indicators (KPIs)** suc
 ---
 
 ## 📷 Dashboard Preview
-
-### 🖼️ Dashboard View 1
-![Chocolate Sales Dashboard - Part 1](./images/chocolate_sales_dashboard_part1.png)
-
-### 🖼️ Dashboard View 2
-![Chocolate Sales Dashboard - Part 2](./images/chocolate_sales_dashboard_part2.png)
+<img width="1374" height="688" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/8266ab6e-4a12-492e-a447-1364f084afa0" />
 
 ---
 
